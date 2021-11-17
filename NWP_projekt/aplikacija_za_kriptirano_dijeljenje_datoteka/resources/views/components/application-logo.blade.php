@@ -1,0 +1,1 @@
+<img src="{{asset('logo.svg')}}" alt="App logo" {{ $attributes }}>

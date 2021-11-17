@@ -1,0 +1,126 @@
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('74', 'Tema za diplomski u suradnji s tvrtkom Inchoo', 'Poštovani studenti, 
+
+S velikim zadovoljstvom nastavljamo suradnju s FERITom, ove godine i tako što ćemo komentorirati izradu diplomskog rada sa temom: 
+
+Izrada web shop aplikacije korištenjem MVC paradigme. 
+
+Unaprijed se radujemo upoznati još jednog budućeg kolegu ili kolegicu! 
+
+Sretno! 
+
+&nbsp;', 'https://stup.ferit.hr/2020/01/14/tema-za-diplomski-rad-u-saradnji-sa-tvrtkom-inchoo/', '79343687407');
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('75', 'Diplomski radovi u suradnji s tvrtkom Institut RT-RK Osijek', 'Poštovani studenti diplomskih studija FERIT-a! 
+
+Obavještavamo vas da tvrtka Institut RT-RK Osijek i ove godine u suradnji s FERIT-om nudi zanimljive teme diplomskih radova. Slijedi popis tema koje su na raspolaganju studentima za odabir ove akademske godine: Detekcija otklona položaja kamere i korekcija položaja kamere za primjenu u ADAS algoritmima Spajanje slika dobivenih s više kamera u jedinstvenu sliku i korekcija osvjetljenja dobivene slike za primjenu u ADAS algoritmima Korištenje kamera kao zamjena za zrcalo u ADAS algoritmima Određivanje udaljenosti detektiranog vozila ispred vozila s ugrađenim sustavom stereo kamera Detekcija pješaka upotrebom više različitih kamera smještenih u automobilu Proširenje VSDK dijagnostičkog podsustava praćenjem poremećaja video toka u sustavu s više kamera Prepoznavanje prometnih znakova za ograničenje maksimalne brzine kretanja za primjenu u naprednim ADAS algoritmima Implementacija algoritma za detekciju rubova u slici na realnu ADAS platformu Razvoj rješenja za prepoznavanje svjetlosne prometne signalizacije i implementacija razvijenog rješenja na realnu ADAS platformu Optimizacija potrošnje RAM memorije kod automatski generiranih testova za Autosar RTE Optimizacija potrebne programske memorije kod automatski generiranih testova za Autosar RTE Modeliranje i implementacija prilagodljivog sustava za upravljanje svjetlima vozila Testiranje verifikatora modela kod izgradnje programske podrške u automotiv industriji Pristup MotionWise platformi s Linux PC-a Parcijalno ažuriranje programske podrške na AURIX TC397 platformi Alat za grafički prikaz kompleksnosti izvršnog koda Alat za klasifikaciju parametara modela sustava 
+
+Nadamo se uspješnoj suradnji na diplomskim radovima i u tekućoj akademskoj godini', 'https://stup.ferit.hr/2019/12/02/diplomski-radovi-u-suradnji-s-tvrtkom-institut-rt-rk-osijek-2/', '87006187287');
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('76', 'Tema za diplomski/završni rad-Uvođenje solarnih izvora energije, te rekonstrukcija rasvjete LED tehnologijom', 'Prikaz proračuna uštede električne energije uvođenjem solarnih sustava i LED tehnologijom!', 'https://stup.ferit.hr/2019/09/04/uvodenje-solarnih-izvora-energije-te-rekonstrukcija-rasvjete-led-tehnologijom/', '53535248695');
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('77', 'Teme za diplomske radove 3.dio', 'TEMA: FPGA implementacija SoC algoritma za Li-ion baterijske ćelije 
+
+ZADATAK: Istražiti SoC algoritme u literaturi s naglaskom na Kalman filtriranje. Odabrani algoritam implementirati na Xilinx FPGA razvojnom sustavu i Vivado programskoj podršci te mjeriti vremena izvođenja. 
+
+Mentor: Tomislav Matić (ZRIA) 
+
+Mentor iz Rimac Automobili: David Romić TEMA: Programski sustavi za prigušenje buke audio signala u vozilima 
+
+ZADATAK: Napretkom multimedijskih sustava u vozilima sve je razvijenija funkcionalnost korištenja audiosustava vozila kao proširenje telefona (tzv. Handsfree), te funkcionalnost prepoznavanja glasovnih komandi (voice user interface). Kako bi se postiglo kvalitetno funkcioniranje obje funkcionalnosti, potrebno je filtrirati pozadinsku buku te izbjeći jeku i mikrofoniju. 
+
+Cilj ovog rada je analizirati dostupne alate za filtriranje pozadinske buke, detekciju i filtriranje jeke te mikrofonije. Potrebno je razviti prototip programskog sustava koji prepoznaje i filttira pozadinsku buku i/ili jeku. 
+
+Mentor: Tomislav Matić (ZRIA) 
+
+Mentor iz Rimac Automobili: Tomislav Lugarić TEMA: Programski sustavi za digitalno procesiranje audio signala u vozilima 
+
+ZADATAK: Razvoj ugradbenih računala koja se koriste u automobilima omogućio je njihovo korištenje za brojne aspekte vezane uz multimediju. Sa sve naprednijim sustavima zvučnika u automobilima, nastala je i potreba za prilagodbu audiosustava interijeru automobila, odnosno posebnim vrstama glazbe koja se sluša. Funkcionalnosti poput korekcije izobličenosti zvuka, simuliranje drugačijeg interijera, centriranje zvuka na određeno mjesto u autu tradicionalno su se postizale posebnim sklopovljem (DSP hardware), no s većom procesorskom moći ovo je moguće postići i korištenjem „običnog“ aplikacijskog procesora. 
+
+Cilj ovog rada je analizirati dostupne alate za digitalno procesiranje signala, te razviti prototip sustava koji omogućava funkcionalnosti DSP-a poput: 
+
+Podešavanje faznog pomaka među zvučnicima 
+
+Centriranje zvuka na određeno mjesto u automobilu 
+
+Kompenzacija audio sustava obzirom na unutrašnjost automobils 
+
+Dinamička kompresija raspona (Dynamic range compression) 
+
+Mentor: Tomislav Matić (ZRIA) 
+
+Mentor iz Rimac Automobili: Tomislav Lugarić TEMA: FPGA upravljač za paralelnu komunikaciju s AD pretvornikom 
+
+ZADATAK: U ovom radu potrebno je razviti i implementirati upravljač za paralelnu komunikaciju s AD integriranim sklopom. Upravljač je potrebno razviti za FPGA te ga implementirati i testirati na odabranom razvojnom sustavu. Rimac Automobili će osigurati AD integrirani sklop. 
+
+Mentor: Tomislav Matić (ZRIA) 
+
+Sumentor: Ivan Aleksi 
+
+Mentor iz Rimac Automobili: Marijus Pocevičius', 'https://stup.ferit.hr/2019/01/28/teme-za-diplomske-radove-3-dio/', '53943536946');
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('78', 'Teme za diplomske radove 2.dio', 'TEMA: Upravljanje jednom granom trofaznog izmjenjivača sinusno pulsnom-širinskom moduluacijom pomoću razvojnog sustava Arduino 
+
+ZADATAK: Pomoću razvojnog sustava Arduino osmisliti i adaptirati sustav za upravljanje jednom granom trofaznog izmjenjivača (jednofazni izmjenjivač u polumosnom spoju). Upravljanje izvesti sinusnom pulsno-širinskom modulacijom (SPWM). Provesti analizu rada za dani izmjenjivač upravljan pomoću SPWM. Također, dizajnirati korisničko sučelje (Arduino monitor i tipkovnica) za unos i prikaz parametara SPWM. Testirati nadograđeni izmjenjivač sa radno-induktivnim trošilom u nekoliko karakterističnih radnih točaka. 
+
+Mentor:prof.dr.sc.Denis Pelin 
+
+Sumentor: mag. ing. el. Kristijan Lolić 
+
+&nbsp; TEMA: Pasivni BMS za balansiranje 5 ćelija spojenih u seriju 
+
+ZADATAK: Provesti analizu  I gotove solucije za pasivne BMS-ove, navesti mane I dobre stavri pasivnog balansiranja. Pomoću razvojnog sustava Arduino osmisliti I adaptirati sustav za balansiranje baterija prema specifikacijama. Testirati sustav I dati radne točke za različite struje balansiranja. 
+
+Input power source: Li-ion or LiFePo battery 
+
+Nominal voltage: 16V &#8211; 18,5V 
+
+Cell count: 5 
+
+Protections: over and under voltage, over temperature, over current 
+
+Cell balancing: 50mA-200mA 
+
+Communication: SOC, SOH 
+
+Mentor:prof.dr.sc.Denis Pelin 
+
+Sumentor: mag. ing. el. Kristijan Lolić 
+
+&nbsp; TEMA:Aktivni BMS za balansiranje 5 ćelija spojenih u seriju 
+
+ZADATAK: Provesti analizu  I gotove solucije za aktivne BMS-ove, navesti mane I dobre stavri aktivnog balansiranja. Pomoću razvojnog sustava Arduino osmisliti I adaptirati sustav za balansiranje baterija prema specifikacijama. Testirati sustav I dati radne točke za različite struje balansiranja. 
+
+Input power source: Li-ion or LiFePo battery 
+
+Nominal voltage: 16V &#8211; 18,5V 
+
+Cell count: 5 
+
+Protections: over and under voltage, over temperature, over current 
+
+Cell balancing: 500mA-1A 
+
+Communication: SOC, SOH 
+
+Mentor:prof.dr.sc.Denis Pelin 
+
+Sumentor: mag. ing. el. Kristijan Lolić 
+
+&nbsp; TEMA: Projektiranje transformatora i upravljanja za istosmjerni pretvarač s faznim pomakom 
+
+ZADATAK: Potrebno je obraditi teoriju rada mostnih pretvrarača i njihovog upravljanja s metodom faznih pomaka.Za postojeći model potrebno je projektirati parametre transformatora te ga izraditi uz pomoć mentora iz Rimac Automobila. Transformator treba ugraditi u model i izmjeriti parametre pretvarača.Za model je potrebno napraviti upravljanje na Arduino Due platformi koje će se koristiti za testiranje modela (transformatora). Obraditi dobivena mjerenja te usporediti s teorijskim vrijednostima. 
+
+Mentor:prof.dr.sc. Kruno Miličević 
+
+Sumentor: mag. ing. el. Luka Olvitz 
+
+&nbsp; TEMA: Projektiranje transformatora i upravljanja za rezonantni LLC istosmjerni pretvarač 
+
+ZADATAK: Potrebno je obraditi teoriju rada mostnih rezonantnih pretvarača, njihove prednosti i mane u odnosu na druge DC-DC pretvarače. Za postojeći model potrebno je projektirati parametre transformatora te ga izraditi uz pomoć mentora iz Rimac Automobila. Transformator treba ugraditi u model i izmjeriti parametre pretvarača. Za model je potrebno napraviti upravljanje na Arduino Due platformi koje će se koristiti za testiranje modela (transformatora). Obraditi dobivena mjerenja te usporediti s teorijskim vrijednostima. 
+
+Mentor: prof.dr.sc. Kruno Miličević 
+
+Sumentor: mag.ing.el. Luka Olvitz 
+
+&nbsp;', 'https://stup.ferit.hr/2019/01/22/teme-za-diplomske-radove-2-dio/', '53943536946');
+INSERT INTO `radovi` (`id`, `naziv_rada`, `tekst_rada`, `link_rada`, `oib_tvrtke`) VALUES ('79', 'Indirektne metode upravljanja momentom motora', 'Diplomski rad se odrađuje u suradnji s tvrtkom Danieli Systec d.o.o. koja će omogućiti studentu korištenje opreme i softverskih paketa u periodu izrade diplomskog rada. Praktični dio  diplomskog rada odrađuje se u uredu Danieli Systec u Osijeku uz nadzorom i stručno vodstvo mr. sc. Ivice Bašić koji će biti sumentor u izradi ovog diplomskog rada. 
+
+Opis teme: 
+
+Teoretski objasniti metode direktnog i indirektnog upravljanja momentom motora. Izvesti izraze za momenta motora kod indirektnog upravljanja momentom. Navesti prednosti i mane svake metode. Napraviti program u PLC-u za svaku od metoda i primijeniti ga na dva motora koji imaju osovine spojene remenom; pri čemu jedan treba raditi u režimu kontrole brzine vrtnje, a drugi u režimu upravljanja momentom. Snimiti brzine i momente oba motora i rezultate usporediti s teoretskim izvodima.', 'https://stup.ferit.hr/2019/01/21/indirektne-metode-upravljanja-momentom-motora/', '88285726558');
